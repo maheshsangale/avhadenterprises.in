@@ -1,0 +1,185 @@
+
+
+.navbar .navbar-expand-lg .bg-body-tertiary{
+    font-weight: 400;
+font-style: normal;
+font-family: montserrat,sans-serif;
+font-size: 14px;
+color: #000000;
+line-height: unset;
+letter-spacing: 0.05em;
+background: #0E8FAB;
+
+}
+
+
+  @keyframes shake {
+    0% {
+      transform: translateX(0);
+    }
+    20% {
+      transform: translateX(-5px);
+    }
+    40% {
+      transform: translateX(5px);
+    }
+    60% {
+      transform: translateX(-5px);
+    }
+    80% {
+      transform: translateX(5px);
+    }
+    100% {
+      transform: translateX(0);
+    }
+}
+
+  #navbarNavAltMarkup a {
+    color: rgb(46, 42, 42);
+    padding: 20px 30px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: transform 0.5s;
+    
+   
+
+  
+  }
+
+  #navbarNavAltMarkup a:hover {
+    animation: shake 0.5s;
+    color: rgb(11, 11, 20);
+    
+  }
+  img{
+    width: 70px;
+    height: 46px;
+    object-fit: cover;
+    position: relative;
+  }
+nav{
+  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.card{
+    color:rgb(13, 12, 12);
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: transform 0.5s; 
+    background-color: rgb(94, 90, 90);
+}
+.card:hover{
+    animation: shake 0.5s;
+    color: rgb(17, 17, 18);
+}
+
+.recruitment-mobile{-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+font-weight: 100;
+font-size: 0.875rem;
+line-height: 1.7;
+color: #777777;
+font-family: 'Roboto', sans-serif;
+box-sizing: inherit;
+display: block;
+
+overflow: hidden;
+margin-left: auto;
+margin-right: auto;
+
+padding-left: 0px;
+padding-right: 0px;
+background-image: url("https://astralmanpowerservices.net/wp-content/uploads/2019/03/recruitment-steps.jpg");
+background-size: contain;
+background-position: center;
+position: relative;
+width: 100%;
+background-repeat: no-repeat;
+height: 1000px;
+}
+
+.undermenuarea{color: #555;
+-webkit-box-sizing: border-box;
+outline: none;
+margin: 0;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
+font-family: Arial;
+background: #0E8FAB;}
+
+.titlehead{-webkit-box-sizing: border-box;
+outline: none;
+margin: 0;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
+font-style: normal;
+text-rendering: optimizeLegibility;
+line-height: 48px;
+margin-top: -50px;
+margin-bottom: 0px;
+color: #fff;
+font-size: 26px;
+padding-bottom: 25px;
+text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+font-family: OpenSansBold;
+text-align: center;}
+
+.boxedshadow{color: #555;
+-webkit-box-sizing: border-box;
+outline: none;
+margin: 0;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
+font-family: Arial;
+background: url(../images/shfinal.png) no-repeat 50% 0;
+margin-top: -30px;
+min-height: 75px;
+opacity: 1.0;}
+
+.titlehead{ -webkit-box-sizing: border-box;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  font-style: normal;
+  text-rendering: optimizeLegibility;
+  line-height: 48px;
+  margin-top: -50px;
+  margin-bottom: 0px;
+  color: #fff;
+  font-size: 26px;
+  padding-bottom: 25px;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  font-family: OpenSansBold;
+  text-align: center;}
+
+  .bradcumb{text-rendering: optimizeLegibility;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  vertical-align: baseline;
+  line-height: inherit;
+  font-weight: inherit;
+  font-family: OpenSansBold;
+  text-decoration: none;
+  color: #fff;}
+
+
+  
